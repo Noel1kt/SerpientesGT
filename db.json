@@ -1,5 +1,5 @@
 {
-    "Familia Boidae": [
+    "FamiliaBoidae": [
       {
         "nombreComun": "Mazacuata, boa",
         "nombreCientifico": "Boa constrictor",
@@ -17,7 +17,7 @@
         "venenosidad": "No venenosa"
       }
     ],
-    "Familia Colubridae": [
+    "FamiliaColubridae": [
       {
         "nombreComun": "Zacatera de montaña",
         "nombreCientifico": "Adelphicos daryi",
