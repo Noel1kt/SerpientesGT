@@ -15,7 +15,7 @@ export function App() {
                 <Route path="/" element={<Home/>}/>
                 <Route path="/Menu" element={<Menu/>}/>
                 <Route path="/Cards" element={<ActionAreaCard/>}/>
-                <Route path="/Serpientes/:nombreComun" element={<Card/>}/>
+                <Route path="/Serpientes/:id" element={<Card/>}/>
                 <Route path="*" element={<Page404/>}/>
             </Routes>
         </Router>

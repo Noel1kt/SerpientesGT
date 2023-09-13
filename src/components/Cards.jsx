@@ -18,8 +18,8 @@ export default function ActionAreaCard({url}) {
 
   return (
     serpientes.map( serpiente => {
-      const {familia,nombreComun,nombreCientifico,descripcion,distribucionEnGuatemala,historiaNatural,venenosidad} = serpiente;
-      return <Link to={`/Serpientes/${nombreCientifico}`} className={`post__card post-card--${familia}`} key={nombreCientifico}>
+      const {id,familia,nombreComun,nombreCientifico,descripcion,distribucionEnGuatemala,historiaNatural,venenosidad} = serpiente;
+      return <Link to={`/Serpientes/${id}`} className={`post__card post-card--${familia}`} key={id}>
       <Card sx={{ maxWidth: 345 }} className='Card'>
       <CardActionArea className='CardActionArea'>
         <CardMedia 
