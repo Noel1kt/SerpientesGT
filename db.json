@@ -1,6 +1,34 @@
 {
-    "FamiliaBoidae": [
+    "Familias":[
       {
+        "id": "Boidae",
+        "nombre": "Boidae"
+      },
+      {
+        "id": "Colubridae",
+        "nombre": "Colubridae"
+      },
+      {
+        "id": "Elapidae",
+        "nombre": "Elapidae"
+      },
+      {
+        "id": "Leptotyphlopidae",
+        "nombre": "Leptotyphlopidae"
+      }, 
+      {
+        "id": "Loxocemidae",
+        "nombre": "Loxocemidae"
+      }, 
+      {
+        "id": "Viperidae",
+        "nombre": "Viperidae"
+      }
+    ],
+
+    "Serpientes": [
+      {
+        "familia": "Boidae",
         "nombreComun": "Mazacuata, boa",
         "nombreCientifico": "Boa constrictor",
         "descripcion": "Es una de las especies más conocidas en Guatemala. Generalmente no sobrepasa los tres metros de longitud aunque se han reportado individuos de 5.50 m. La cabeza es más o menos triangular y las pupilas son verticales. En el rostro se observa una mancha que semeja un antifaz. El color de fondo puede variar en tonalidades de gris y marrón, además presenta un patrón reticulado más oscuro. A los lados de la cloaca, presentan espolones en forma de uña que son más desarrollados en los machos.",
@@ -9,16 +37,16 @@
         "venenosidad": "No venenosa"
       },
       {
+        "familia": "Boidae",
         "nombreComun": "Boa anillada",
         "nombreCientifico": "Corallus annulatus",
         "descripcion": "Es una serpiente de cabeza grande y ojos con pupila vertical (Campbell 1998). Puede medir hasta 1.70 m. Los adultos son de color marrón pálido con manchas marrón ligeramente más oscuro. Los jóvenes son de color canela (Campbell 1998).",
         "distribucionEnGuatemala": "Noreste de Izabal (Köhler 2003).",
         "historiaNatural": "Serpiente arborícola, de bosque húmedo, de hábitos nocturnos (Campbell 1989).",
         "venenosidad": "No venenosa"
-      }
-    ],
-    "FamiliaColubridae": [
+      },
       {
+        "familia": "Colubridae",
         "nombreComun": "Zacatera de montaña",
         "nombreCientifico": "Adelphicos daryi",
         "descripcion": "Se ha reportado una longitud de hasta 57.4 cm. Dorsalmente es marrón grisácea con líneas longitudinales y en la parte ventral es amarilla pálida con una línea oscura en la cola (Köhler 2003).",
@@ -27,6 +55,7 @@
         "venenosidad": "No venenosa"
       },
       {
+        "familia": "Colubridae",
         "nombreComun": "Zacatera",
         "nombreCientifico": "Adelphicos quadrivirgatus",
         "descripcion": "Alcanza 40 cm de longitud. Color gris o marrón con cuatro líneas longitudinales oscuras (Campbell 1998).",
