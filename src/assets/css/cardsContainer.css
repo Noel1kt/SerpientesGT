@@ -5,3 +5,15 @@
     padding: 1rem;
     
 }
+
+.CardContent-Boidae{
+    background-color: rgb(160, 154, 68);
+}
+
+.CardContent-Colubridae{
+    background-color: rgb(102, 136, 89);
+}
+
+.Card{
+    margin: 1rem;
+}

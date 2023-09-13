@@ -5,12 +5,7 @@ export const Home = () => {
     return(
         <main>
             <div className="cardsContainer">
-                <ActionAreaCard/>
-                <ActionAreaCard/>
-                <ActionAreaCard/>
-                <ActionAreaCard/>
-                <ActionAreaCard/>
-                <ActionAreaCard/>
+                <ActionAreaCard url={"/Serpientes"}/>
             </div>
         </main>
     )

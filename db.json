@@ -62,6 +62,114 @@
         "distribucionEnGuatemala": "Norte y bocacosta sur. Hasta los 1500 msnm (Campbell y Vannini 1989).",
         "historiaNatural": "Serpiente pequeña, evasiva. Viven bajo la hojarasca, material vegetal en descomposición y troncos podridos. Nocturna. Se alimenta de lombrices de tierra (Köhler 2003).",
         "venenosidad": "No venenosa"
+      },
+      {
+        "familia": "Colubridae",
+        "nombreComun": "Zopilota, mataculebra",
+        "nombreCientifico": "Clelia clelia",
+        "descripcion": "Llega a medir hasta 2 m de longitud. Los adultos son color negro brillante uniforme en el dorso y el vientre es color crema. Los jóvenes son de color rojo brillante, la cabeza es negra con una diadema central amarilla.",
+        "distribucionEnGuatemala": "Se distribuye en el sureste de Petén e Izabal desde los 0 hasta los 1000 msnm.",
+        "historiaNatural": "Es nocturna, se alimenta principalmente de otras serpientes, pero también come lagartijas (Campbell 1998).",
+        "venenosidad": "Moderadamente venenosa"
+      },
+      {
+        "familia": "Colubridae",
+        "nombreComun": "Sabanera, basurera, ranera",
+        "nombreCientifico": "Coniophanes fissidens",
+        "descripcion": "El tamaño medio es de 60 cm. Es de color marrón, con dos franjas más claras a los lados del dorso que nacen de una mancha aislada en la base del cuello. La mandíbula es blanca con pecas oscuras de forma y tamaño irregular. La pupila es redonda.",
+        "distribucionEnGuatemala": "Costa sur y sur de Petén en elevaciones de 0 a 1830 msnm (Campbell y Vannini 1989).",
+        "historiaNatural": "Serpiente terrestre que se esconde bajo hojarasca, troncos o piedras en el bosque húmedo o áreas de cultivo. Se alimenta de salamandras, ranas y sus huevos, sapos, lagartijas, serpientes (incluyendo las de su especie), huevos de reptiles, lombrices y orugas (Lee 2000, Campbell 1998). La hembra oviposita usualmente de 2 a 4 huevos entre los meses de marzo a julio (Campbell 1998).",
+        "venenosidad": "Levemente venenosa"
+      },
+      {
+        "familia": "Colubridae",
+        "nombreComun": "Sabanera rayada",
+        "nombreCientifico": "Coniophanes schmidti",
+        "descripcion": "Serpiente mediana, alcanza los 70 cm de longitud. Dorso marrón oscuro con dos líneas claras a lo largo de todo el cuerpo. Vientre color beige.",
+        "distribucionEnGuatemala": "Únicamente en el noreste de Petén (Lee 2000).",
+        "historiaNatural": "Terrestre, nocturna o crepuscular. Habita bosque seco y lluvioso. Se alimenta probablemente de ranas, sapos y lagartijas (Campbell 1998).",
+        "venenosidad": "Levemente venenosa"
+      },
+      {
+        "familia": "Colubridae",
+        "nombreComun": "Sabanera, murishquera",
+        "nombreCientifico": "Coniophis lineatus",
+        "descripcion": "La cabeza es apenas más angosta que el resto del cuerpo. La pupila es redonda. Alcanza 1.17 m de longitud (Köhler 2003). El patrón de color varía de acuerdo a la región, por lo general son rayadas, alternando bandas oscuras con claras.",
+        "distribucionEnGuatemala": "Se distribuye en todo el país, excepto el occidente y el norte de Petén (Köhler 2003) en elevaciones de 0 a 1500 msnm (Campbell y Vannini 1989).",
+        "historiaNatural": "Especie diurna de movimiento rápido, habita áreas abiertas tales como sabanas, playas y claros del bosque. Se alimenta de ranas, pequeños mamíferos, lagartijas y serpientes a los cuales somete con su veneno (Köhler 2003).",
+        "venenosidad": "Moderadamente venenosa (el veneno produce dolor, hinchazón y cambio de color en el área de la mordedura)."
+      },
+      {
+        "familia": "Colubridae",
+        "nombreComun": "Zumbadora, voladora",
+        "nombreCientifico": "Drymarchon melanurus",
+        "descripcion": "Serpiente grande, puede alcanzar los 2.95 m de longitud. El color puede ser gris, marrón claro, rojo o negro. Las tonalidades claras se caracterizan por presentar la cola negra. En el rostro, se observan tres líneas negras que bajan del ojo a la mandíbula. El ojo es relativamente grande con pupila redonda. Los jóvenes pueden presentar motas negras en la primera parte del cuerpo.",
+        "distribucionEnGuatemala": "Está presente en todo el país, entre los 0 y los 1900 msnm (Campbell 1998).",
+        "historiaNatural": "Especie diurna de movimientos rápidos. Habita en sabanas, manglares, bosques espinosos y bosques húmedos. Está a menudo asociada al agua. Es principalmente terrestre. Se alimenta de aves, pequeños mamíferos, peces, pequeñas tortugas, ranas, sapos, lagartijas, serpientes incluyendo las especies venenosas. La hembra oviposita 4 a 11 huevos (Lee 2000).",
+        "venenosidad": "No venenosa"
+      },
+      {
+        "familia": "Colubridae",
+        "nombreComun": "Ranera",
+        "nombreCientifico": "Drymobius chloroticus",
+        "descripcion": "Serpiente de tamaño mediano, de hasta 1.20 m de longitud. Las escamas son verdes aunque los individuos de zonas montañosas pueden ser marrón y verde. Los ojos son grandes, con pupila redonda.",
+        "distribucionEnGuatemala": "Bocacosta del Pacífico y Las Verapaces (Acevedo 2006).",
+        "historiaNatural": "Actividad diurna.",
+        "venenosidad": "No venenosa"
+      },
+      {
+        "familia": "Colubridae",
+        "nombreComun": "Ranera",
+        "nombreCientifico": "Drymobius margaritiferus",
+        "descripcion": "Serpiente de tamaño mediano, de hasta 1.34 m de longitud. Las escamas son verdes con amarillo y negro. Los ojos son grandes, con pupila redonda. Esta especie es inconfundible.",
+        "distribucionEnGuatemala": "Se distribuye en toda Guatemala, en elevaciones entre los 0 y los 1830 msnm (Campbell y Vannini 1989).",
+        "historiaNatural": "Principalmente terrestre, en todos los hábitats. Se alimenta principalmente de lagartijas y ranas aunque consume también pequeños mamíferos y huevos de reptiles (Lee 2000). Actividad diurna.",
+        "venenosidad": "No venenosa"
+      },
+      {
+        "familia": "Colubridae",
+        "nombreComun": "Culebrita de collar",
+        "nombreCientifico": "Enulius flavitorques",
+        "descripcion": "Serpiente pequeña, color rojizo, con un collar incompleto amarillento. Alcanza los 50 centímetros (Köhler 2003). Tiene la nariz aplastada.",
+        "distribucionEnGuatemala": "Se distribuye en Guatemala a lo largo de la costa sur desde los 0 hasta los 850 msnm.",
+        "historiaNatural": "Habita bajo troncos y hojas podridas y se alimenta de termitas y hormigas (Köhler 2003).",
+        "venenosidad": "No venenosa"
+      },
+      {
+        "familia": "Colubridae",
+        "nombreComun": "Nariz de gancho",
+        "nombreCientifico": "Ficimia publia",
+        "descripcion": "Serpiente pequeña, usualmente alcanza los 45 cm. El color puede variar de anaranjado hasta marrón, con manchas oscuras. La punta de la trompa está dirigida hacia arriba. Los ojos son pequeños, redondos y oscuros.",
+        "distribucionEnGuatemala": "Se encuentra en la costa sur, Petén e Izabal, hasta los 600 msnm (Köhler 2003).",
+        "historiaNatural": "Serpiente evasiva, puede encontrarse en bosque espinoso, bosque deciduo, sabanas y áreas agrícolas. Terrestre, nocturna, se alimenta principalmente de arañas (Lee 2000).",
+        "venenosidad": "No venenosa"
+      },
+      {
+        "familia": "Colubridae",
+        "nombreComun": "Hojarasquera",
+        "nombreCientifico": "Geophis immaculatus",
+        "descripcion": "Serpiente pequeña, de hasta 30.5 cm (Köhler 2003). Gris en el dorso, blanca en el vientre. Tiene el rostro en forma de cuña.",
+        "distribucionEnGuatemala": "Bosque húmedo y bosque nuboso de los 1500 a los 2500 msnm (Köhler 2003). Oeste de la cadena volcánica del Pacífico (Acevedo 2006).",
+        "historiaNatural": "Nocturna, cavadora. Se alimenta probablemente de larvas de insectos, lombrices, sanguijuelas y babosas.",
+        "venenosidad": "No venenosa"
+      },
+      {
+        "familia": "Colubridae",
+        "nombreComun": "Hojarasquera",
+        "nombreCientifico": "Geophis nasalis",
+        "descripcion": "Serpiente pequeña, de hasta 35 cm de longitud (Köhler 2003). Es gris plomo en el dorso y el vientre es blancuzco. La cabeza tiene forma de cuña. Los ojos son pequeños, redondos y oscuros.",
+        "distribucionEnGuatemala": "Altiplano y sureste de Guatemala, en elevaciones de los 600 a los 1500 msnm, en bosques subtropicales húmedos y muy húmedos (Campbell 2004).",
+        "historiaNatural": "Nocturna, cavadora. Se alimenta probablemente de larvas de insectos, lombrices, sanguijuelas y babosas.",
+        "venenosidad": "No venenosa"
+      },
+      {
+        "familia": "Colubridae",
+        "nombreComun": "Hojarasquera",
+        "nombreCientifico": "Geophis rhodogaster",
+        "descripcion": "Serpiente pequeña, de alrededor de 38 cm (Köhler 2003). Color gris oscuro en el dorso y amarillo naranja en el vientre. La cabeza tiene forma de cuña y la nariz es larga. Los ojos son pequeños, redondos y oscuros.",
+        "distribucionEnGuatemala": "Altiplano, en elevaciones de 1500 a 2500 msnm exceptuando la Sierra de Las Minas (Campbell y Vannini 1989).",
+        "historiaNatural": "Nocturna, cavadora. Posiblemente se alimenta de larvas de insectos, lombrices, sanguijuelas y babosas.",
+        "venenosidad": "No venenosa"
       }
     ]
   }
