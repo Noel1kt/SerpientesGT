@@ -12,7 +12,6 @@ export default function ActionAreaCard() {
         <CardMedia
           component="img"
           height="140"
-        
           image="https://aprende.guatemala.com/wp-content/uploads/2021/11/Serpiente-barba-amarilla-en-Guatemala-02.jpg"
           alt="green iguana"
         />
