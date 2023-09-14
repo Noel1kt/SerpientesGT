@@ -25,6 +25,8 @@
 .container-items a{
     text-decoration: none;
     margin: 1rem;
+    font-size: 20px;
+    font-weight: bold;
     color: aliceblue;
 }
 

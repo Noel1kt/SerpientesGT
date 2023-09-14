@@ -2,4 +2,9 @@ body {
     margin: 0; /* Elimina los márgenes predeterminados del body */
     padding: 0; /* Elimina el relleno predeterminado del body */
     border: 0; /* Elimina cualquier borde predeterminado del body */
+    
   }
+
+html{
+  color: #D8E9A8;
+}

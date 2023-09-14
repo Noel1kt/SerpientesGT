@@ -6,7 +6,5 @@ import { App } from './App'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App/>
-    <button>Hola baton</button>
-    <button>Hola baton</button>
   </React.StrictMode>,
 )

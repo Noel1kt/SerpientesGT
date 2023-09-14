@@ -16,7 +16,6 @@ export const FamiliasPage = () => {
    
     return (
         <>
-            <h1>Familas</h1>
             <div className="familiasContainer">
                <Familias/> 
             </div>
