@@ -2,16 +2,24 @@ import { useState } from "react";
 import { Familias } from "../components/Familias";
 import ActionAreaCard from "../components/Cards";
 import { useParams } from "react-router-dom";
+import "../assets/css/cardsContainer.css"
 
 
 export const FamiliasPage = () => {
     const {id} = useParams()
-    console.log("familia page",id)
+
+    // useParams() obtiene el id (nombre de la familia)
+    // con el id podemos preguntar si la familia existe /Serpientes?familia=${id}
+    // entonces muestra unicamente los objetos con esa categoría por que  ActionAreaCard recibe una url que genera los elementos dentro
+   
     return (
         <>
-            <h1>Pet Familias</h1>
+            <h1>Familas</h1>
             <Familias/>
-            <ActionAreaCard url={`/Serpientes?familia=${id}`}/>
+            <div className="cardsContainer">
+                <ActionAreaCard url={`/Serpientes?familia=${id}`}/> 
+            </div>
+            
 
         </>
     )

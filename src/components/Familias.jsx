@@ -12,10 +12,9 @@ export const Familias = () => {
 
     return(
         familias.map(familia =>(
-            <Link to={`/familia/${familia.id}`} key={familia.id}>
-            <li className={`category-list__category category-list__category--${familia.id}`}>
+        <Link to={`/familia/${familia.id}`} key={familia.id}>
+            <li >
                 {familia.nombre}
-
             </li>
         </Link>
         ))
