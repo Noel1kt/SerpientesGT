@@ -9,6 +9,7 @@ import "../assets/css/familiaContent.css"
 export const FamiliasPage = () => {
     const {id} = useParams()
 
+
     // useParams() obtiene el id (nombre de la familia)
     // con el id podemos preguntar si la familia existe /Serpientes?familia=${id}
     // entonces muestra unicamente los objetos con esa categoría por que  ActionAreaCard recibe una url que genera los elementos dentro
