@@ -7,8 +7,6 @@ export const Card = ({url}) => {
     const [card, setCard] = useState({})
 
     const {id} = useParams()
-    console.log(useParams())
-    console.log("card",card)
 
     const navigate = useNavigate()
 

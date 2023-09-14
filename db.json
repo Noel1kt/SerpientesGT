@@ -35,7 +35,8 @@
         "descripcion": "Es una de las especies más conocidas en Guatemala. Generalmente no sobrepasa los tres metros de longitud aunque se han reportado individuos de 5.50 m. La cabeza es más o menos triangular y las pupilas son verticales. En el rostro se observa una mancha que semeja un antifaz. El color de fondo puede variar en tonalidades de gris y marrón, además presenta un patrón reticulado más oscuro. A los lados de la cloaca, presentan espolones en forma de uña que son más desarrollados en los machos.",
         "distribucionEnGuatemala": "Está presente en todo el país, en elevaciones que van de cero a 900 msnm (Campbell y Vannini 1989).",
         "historiaNatural": "Es de hábitos principalmente nocturnos aunque ocasionalmente puede observarse de día, principalmente en hábitats de vegetación densa. Es terrestre o arborícola y se alimenta de iguanas y otras lagartijas, aves y mamíferos. Las jóvenes son más arborícolas que las adultas. Las hembras pueden parir de 12 a 64 crías entre los meses de mayo y agosto (Campbell 1998).",
-        "venenosidad": "No venenosa"
+        "venenosidad": "No venenosa",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/B._constrictor.jpg"
       },
       {
         "id": 2,
@@ -45,7 +46,8 @@
         "descripcion": "Es una serpiente de cabeza grande y ojos con pupila vertical (Campbell 1998). Puede medir hasta 1.70 m. Los adultos son de color marrón pálido con manchas marrón ligeramente más oscuro. Los jóvenes son de color canela (Campbell 1998).",
         "distribucionEnGuatemala": "Noreste de Izabal (Köhler 2003).",
         "historiaNatural": "Serpiente arborícola, de bosque húmedo, de hábitos nocturnos (Campbell 1989).",
-        "venenosidad": "No venenosa"
+        "venenosidad": "No venenosa",
+        "img":"https://static.inaturalist.org/photos/60032/large.jpg"
       },
       {
         "id": 3,
@@ -55,7 +57,8 @@
         "descripcion": "Se ha reportado una longitud de hasta 57.4 cm. Dorsalmente es marrón grisácea con líneas longitudinales y en la parte ventral es amarilla pálida con una línea oscura en la cola (Köhler 2003).",
         "distribucionEnGuatemala": "Montañas del centro sur de Guatemala (Acevedo 2006).",
         "historiaNatural": "Se encuentra en bosques de pino-encino; viven bajo la hojarasca, material vegetal en descomposición y troncos podridos. Nocturna. Se alimenta de lombrices de tierra (Köhler 2003).",
-        "venenosidad": "No venenosa"
+        "venenosidad": "No venenosa",
+        "img":"https://biodiversidad.gt/imglib/guatemala/Dipsadidae/202108/USACF000002_1600888248_1628528739.jpg"
       },
       {
         "id": 4,
@@ -65,7 +68,8 @@
         "descripcion": "Alcanza 40 cm de longitud. Color gris o marrón con cuatro líneas longitudinales oscuras (Campbell 1998).",
         "distribucionEnGuatemala": "Norte y bocacosta sur. Hasta los 1500 msnm (Campbell y Vannini 1989).",
         "historiaNatural": "Serpiente pequeña, evasiva. Viven bajo la hojarasca, material vegetal en descomposición y troncos podridos. Nocturna. Se alimenta de lombrices de tierra (Köhler 2003).",
-        "venenosidad": "No venenosa"
+        "venenosidad": "No venenosa",
+        "img":"https://inaturalist-open-data.s3.amazonaws.com/photos/64487063/large.jpeg"
       },
       {
         "id": 5,
@@ -75,7 +79,8 @@
         "descripcion": "Llega a medir hasta 2 m de longitud. Los adultos son color negro brillante uniforme en el dorso y el vientre es color crema. Los jóvenes son de color rojo brillante, la cabeza es negra con una diadema central amarilla.",
         "distribucionEnGuatemala": "Se distribuye en el sureste de Petén e Izabal desde los 0 hasta los 1000 msnm.",
         "historiaNatural": "Es nocturna, se alimenta principalmente de otras serpientes, pero también come lagartijas (Campbell 1998).",
-        "venenosidad": "Moderadamente venenosa"
+        "venenosidad": "Moderadamente venenosa",
+        "img":"https://www.ecoregistros.org/site/images/dataimages/2019/06/13/336683/clelia_clelia-Horno-ladrillos.jpg"
       },
       {
         "id": 6,
@@ -85,7 +90,8 @@
         "descripcion": "El tamaño medio es de 60 cm. Es de color marrón, con dos franjas más claras a los lados del dorso que nacen de una mancha aislada en la base del cuello. La mandíbula es blanca con pecas oscuras de forma y tamaño irregular. La pupila es redonda.",
         "distribucionEnGuatemala": "Costa sur y sur de Petén en elevaciones de 0 a 1830 msnm (Campbell y Vannini 1989).",
         "historiaNatural": "Serpiente terrestre que se esconde bajo hojarasca, troncos o piedras en el bosque húmedo o áreas de cultivo. Se alimenta de salamandras, ranas y sus huevos, sapos, lagartijas, serpientes (incluyendo las de su especie), huevos de reptiles, lombrices y orugas (Lee 2000, Campbell 1998). La hembra oviposita usualmente de 2 a 4 huevos entre los meses de marzo a julio (Campbell 1998).",
-        "venenosidad": "Levemente venenosa"
+        "venenosidad": "Levemente venenosa",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/5/52/Coniophanes_fissidens.jpg"
       },
       {
         "id": 7,
@@ -95,7 +101,8 @@
         "descripcion": "Serpiente mediana, alcanza los 70 cm de longitud. Dorso marrón oscuro con dos líneas claras a lo largo de todo el cuerpo. Vientre color beige.",
         "distribucionEnGuatemala": "Únicamente en el noreste de Petén (Lee 2000).",
         "historiaNatural": "Terrestre, nocturna o crepuscular. Habita bosque seco y lluvioso. Se alimenta probablemente de ranas, sapos y lagartijas (Campbell 1998).",
-        "venenosidad": "Levemente venenosa"
+        "venenosidad": "Levemente venenosa",
+        "img":"https://inaturalist-open-data.s3.amazonaws.com/photos/4993551/original.jpg"
       },
       {
         "id": 8,
@@ -105,7 +112,8 @@
         "descripcion": "La cabeza es apenas más angosta que el resto del cuerpo. La pupila es redonda. Alcanza 1.17 m de longitud (Köhler 2003). El patrón de color varía de acuerdo a la región, por lo general son rayadas, alternando bandas oscuras con claras.",
         "distribucionEnGuatemala": "Se distribuye en todo el país, excepto el occidente y el norte de Petén (Köhler 2003) en elevaciones de 0 a 1500 msnm (Campbell y Vannini 1989).",
         "historiaNatural": "Especie diurna de movimiento rápido, habita áreas abiertas tales como sabanas, playas y claros del bosque. Se alimenta de ranas, pequeños mamíferos, lagartijas y serpientes a los cuales somete con su veneno (Köhler 2003).",
-        "venenosidad": "Moderadamente venenosa (el veneno produce dolor, hinchazón y cambio de color en el área de la mordedura)."
+        "venenosidad": "Moderadamente venenosa (el veneno produce dolor, hinchazón y cambio de color en el área de la mordedura).",
+        "img":"https://inaturalist-open-data.s3.amazonaws.com/photos/11827863/large.jpg"
       },
       {
         "id": 9,
@@ -115,7 +123,8 @@
         "descripcion": "Serpiente grande, puede alcanzar los 2.95 m de longitud. El color puede ser gris, marrón claro, rojo o negro. Las tonalidades claras se caracterizan por presentar la cola negra. En el rostro, se observan tres líneas negras que bajan del ojo a la mandíbula. El ojo es relativamente grande con pupila redonda. Los jóvenes pueden presentar motas negras en la primera parte del cuerpo.",
         "distribucionEnGuatemala": "Está presente en todo el país, entre los 0 y los 1900 msnm (Campbell 1998).",
         "historiaNatural": "Especie diurna de movimientos rápidos. Habita en sabanas, manglares, bosques espinosos y bosques húmedos. Está a menudo asociada al agua. Es principalmente terrestre. Se alimenta de aves, pequeños mamíferos, peces, pequeñas tortugas, ranas, sapos, lagartijas, serpientes incluyendo las especies venenosas. La hembra oviposita 4 a 11 huevos (Lee 2000).",
-        "venenosidad": "No venenosa"
+        "venenosidad": "No venenosa",
+        "img":"https://inaturalist-open-data.s3.amazonaws.com/photos/17945109/large.jpg"
       },
       {
         "id": 10,
@@ -125,7 +134,8 @@
         "descripcion": "Serpiente de tamaño mediano, de hasta 1.20 m de longitud. Las escamas son verdes aunque los individuos de zonas montañosas pueden ser marrón y verde. Los ojos son grandes, con pupila redonda.",
         "distribucionEnGuatemala": "Bocacosta del Pacífico y Las Verapaces (Acevedo 2006).",
         "historiaNatural": "Actividad diurna.",
-        "venenosidad": "No venenosa"
+        "venenosidad": "No venenosa",
+        "img":"https://inaturalist-open-data.s3.amazonaws.com/photos/23058740/large.jpeg"
       },
       {
         "id": 11,
@@ -135,7 +145,8 @@
         "descripcion": "Serpiente de tamaño mediano, de hasta 1.34 m de longitud. Las escamas son verdes con amarillo y negro. Los ojos son grandes, con pupila redonda. Esta especie es inconfundible.",
         "distribucionEnGuatemala": "Se distribuye en toda Guatemala, en elevaciones entre los 0 y los 1830 msnm (Campbell y Vannini 1989).",
         "historiaNatural": "Principalmente terrestre, en todos los hábitats. Se alimenta principalmente de lagartijas y ranas aunque consume también pequeños mamíferos y huevos de reptiles (Lee 2000). Actividad diurna.",
-        "venenosidad": "No venenosa"
+        "venenosidad": "No venenosa",
+        "img":""
       },
       {
         "id": 12,
@@ -145,7 +156,8 @@
         "descripcion": "Serpiente pequeña, color rojizo, con un collar incompleto amarillento. Alcanza los 50 centímetros (Köhler 2003). Tiene la nariz aplastada.",
         "distribucionEnGuatemala": "Se distribuye en Guatemala a lo largo de la costa sur desde los 0 hasta los 850 msnm.",
         "historiaNatural": "Habita bajo troncos y hojas podridas y se alimenta de termitas y hormigas (Köhler 2003).",
-        "venenosidad": "No venenosa"
+        "venenosidad": "No venenosa",
+        "img":""
       },
       {
         "id": 13,
@@ -155,7 +167,8 @@
         "descripcion": "Serpiente pequeña, usualmente alcanza los 45 cm. El color puede variar de anaranjado hasta marrón, con manchas oscuras. La punta de la trompa está dirigida hacia arriba. Los ojos son pequeños, redondos y oscuros.",
         "distribucionEnGuatemala": "Se encuentra en la costa sur, Petén e Izabal, hasta los 600 msnm (Köhler 2003).",
         "historiaNatural": "Serpiente evasiva, puede encontrarse en bosque espinoso, bosque deciduo, sabanas y áreas agrícolas. Terrestre, nocturna, se alimenta principalmente de arañas (Lee 2000).",
-        "venenosidad": "No venenosa"
+        "venenosidad": "No venenosa",
+        "img":""
       },
       {
         "id": 14,
@@ -165,7 +178,8 @@
         "descripcion": "Serpiente pequeña, de hasta 30.5 cm (Köhler 2003). Gris en el dorso, blanca en el vientre. Tiene el rostro en forma de cuña.",
         "distribucionEnGuatemala": "Bosque húmedo y bosque nuboso de los 1500 a los 2500 msnm (Köhler 2003). Oeste de la cadena volcánica del Pacífico (Acevedo 2006).",
         "historiaNatural": "Nocturna, cavadora. Se alimenta probablemente de larvas de insectos, lombrices, sanguijuelas y babosas.",
-        "venenosidad": "No venenosa"
+        "venenosidad": "No venenosa",
+        "img":""
       },
       {
         "id": 15,
@@ -175,7 +189,8 @@
         "descripcion": "Serpiente pequeña, de hasta 35 cm de longitud (Köhler 2003). Es gris plomo en el dorso y el vientre es blancuzco. La cabeza tiene forma de cuña. Los ojos son pequeños, redondos y oscuros.",
         "distribucionEnGuatemala": "Altiplano y sureste de Guatemala, en elevaciones de los 600 a los 1500 msnm, en bosques subtropicales húmedos y muy húmedos (Campbell 2004).",
         "historiaNatural": "Nocturna, cavadora. Se alimenta probablemente de larvas de insectos, lombrices, sanguijuelas y babosas.",
-        "venenosidad": "No venenosa"
+        "venenosidad": "No venenosa",
+        "img":""
       },
       {
         "id": 16,
@@ -185,7 +200,8 @@
         "descripcion": "Serpiente pequeña, de alrededor de 38 cm (Köhler 2003). Color gris oscuro en el dorso y amarillo naranja en el vientre. La cabeza tiene forma de cuña y la nariz es larga. Los ojos son pequeños, redondos y oscuros.",
         "distribucionEnGuatemala": "Altiplano, en elevaciones de 1500 a 2500 msnm exceptuando la Sierra de Las Minas (Campbell y Vannini 1989).",
         "historiaNatural": "Nocturna, cavadora. Posiblemente se alimenta de larvas de insectos, lombrices, sanguijuelas y babosas.",
-        "venenosidad": "No venenosa"
+        "venenosidad": "No venenosa",
+        "img":""
       }
     ]
   }

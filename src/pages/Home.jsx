@@ -5,7 +5,7 @@ import { Familias } from "../components/Familias"
 export const Home = () => {
     return(
         <main>
-            <Familias/>
+            
             <div className="cardsContainer">
                 <ActionAreaCard url={"/Serpientes"}/>
             </div>

@@ -3,16 +3,31 @@
     flex-wrap: wrap;
     justify-content: center;
     padding: 1rem;
+    background-color: #D8E9A8;
     
+}
+.Typography-title{
+    color: #191A19;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 .CardContent-Boidae{
+    text-decoration: none;
     background-color: rgb(160, 154, 68);
 }
+.cardLink-Boidae{
+    text-decoration: none;
+}
+
 
 .CardContent-Colubridae{
     background-color: rgb(102, 136, 89);
 }
+.cardLink-Colubridae{
+    text-decoration: none;
+}
+
 
 .Card{
     margin: 1rem;

@@ -18,18 +18,20 @@ export default function ActionAreaCard({url}) {
 
   return (
     serpientes.map( serpiente => {
-      const {id,familia,nombreComun,nombreCientifico,descripcion,distribucionEnGuatemala,historiaNatural,venenosidad} = serpiente;
-      return <Link to={`/Serpientes/${id}`} className={`post__card post-card--${familia}`} key={id}>
+      const {id,familia,nombreComun,nombreCientifico,descripcion,distribucionEnGuatemala,historiaNatural,venenosidad, img} = serpiente;
+      return <Link to={`/Serpientes/${id}`} className={`cardLink-${familia}`} key={id}>
       <Card sx={{ maxWidth: 345 }} className='Card'>
       <CardActionArea className='CardActionArea'>
-        <CardMedia 
+        <CardMedia
+
           component="img"
           height="140"
-          image="https://aprende.guatemala.com/wp-content/uploads/2021/11/Serpiente-barba-amarilla-en-Guatemala-02.jpg"
+          image={img}
           alt="green iguana"
+          style={{ width: '350px', height: '150px' }}
         />
         <CardContent className={`CardContent-${familia}`}>
-          <Typography gutterBottom variant="h6" component="div">
+          <Typography className='Typography-title'>
             {nombreComun}
           </Typography>
           <Typography variant="body2" color="text.secondary">

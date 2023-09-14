@@ -8,14 +8,14 @@ export const Header = () => {
         <header className="Header">
             <div>
                 <a href="">
-                    <img className="Image" src="https://aprende.guatemala.com/wp-content/uploads/2021/11/Serpiente-barba-amarilla-en-Guatemala.jpg" alt="" />
+                    <img className="Image" src="" alt="" />
                 </a>
             </div>
             <nav className="nav">
                 <ul className="container-items">
                     <li><Link to="/">Todas las especies</Link></li>
-                    <li><Link to="/Menu">Familias</Link></li>
-                    <li><Link to="/familias/:id">Cóm usar la guía</Link></li>
+                    <li><Link to="/familia/:id">Familias</Link></li>
+                    <li><Link to="/Menu">Cóm usar la guía</Link></li>
                     <li><Link to="">Sobre los autores</Link></li>
                 </ul>
             </nav>
