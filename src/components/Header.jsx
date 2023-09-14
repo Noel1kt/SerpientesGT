@@ -15,7 +15,7 @@ export const Header = () => {
                 <ul className="container-items">
                     <li><Link to="/Menu">Todas las especies</Link></li>
                     <li><Link to="/Menu">Índice de especies</Link></li>
-                    <li><Link to="">Cóm usar la guía</Link></li>
+                    <li><Link to="/familias/:id">Cóm usar la guía</Link></li>
                     <li><Link to="">Sobre los autores</Link></li>
                 </ul>
             </nav>
