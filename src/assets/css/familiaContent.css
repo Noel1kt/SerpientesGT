@@ -1,0 +1,195 @@
+.familiasContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 1rem;
+    background-color: #D8E9A8;
+}
+
+.familiaLink{
+    text-decoration: none;
+}
+
+.familiaContent-Boidae {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 1rem;
+    width: 270px;
+    height: 400px;
+    border-radius: 20px;
+    background-image: url("../img/serpiente02.jpg");
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
+.familiaContent-Boidae:hover {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+.familiaContent-Boidae h3 {
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 18rem;
+    transition: margin-top 1s; 
+}
+
+.familiaContent-Boidae:hover h3 {
+    margin-top: 10rem; 
+}
+
+
+.familiaContent-Colubridae {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 1rem;
+    width: 270px;
+    height: 400px;
+    border-radius: 20px;
+    background-image: url("../img/serpiente02.jpg");
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
+.familiaContent-Colubridae:hover {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+.familiaContent-Colubridae h3 {
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 18rem;
+    transition: margin-top 1s; 
+}
+
+.familiaContent-Colubridae:hover h3 {
+    margin-top: 10rem; 
+}
+
+/* style */
+.familiaContent-Elapidae {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 1rem;
+    width: 270px;
+    height: 400px;
+    border-radius: 20px;
+    background-image: url("../img/serpiente02.jpg");
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
+.familiaContent-Elapidae:hover {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+.familiaContent-Elapidae h3 {
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 18rem;
+    transition: margin-top 1s; 
+}
+
+.familiaContent-Elapidae:hover h3 {
+    margin-top: 10rem; 
+}
+
+/* style */
+.familiaContent-Leptotyphlopidae {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 1rem;
+    width: 270px;
+    height: 400px;
+    border-radius: 20px;
+    background-image: url("../img/serpiente02.jpg");
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
+.familiaContent-Leptotyphlopidae:hover {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+.familiaContent-Leptotyphlopidae h3 {
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 18rem;
+    transition: margin-top 1s; 
+}
+
+.familiaContent-Leptotyphlopidae:hover h3 {
+    margin-top: 10rem; 
+}
+
+/* style */
+.familiaContent-Loxocemidae {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 1rem;
+    width: 270px;
+    height: 400px;
+    border-radius: 20px;
+    background-image: url("../img/serpiente02.jpg");
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
+.familiaContent-Loxocemidae:hover {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+.familiaContent-Loxocemidae h3 {
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 18rem;
+    transition: margin-top 1s; 
+}
+
+.familiaContent-Loxocemidae:hover h3 {
+    margin-top: 10rem; 
+}
+/* style */
+.familiaContent-Viperidae {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 1rem;
+    width: 270px;
+    height: 400px;
+    border-radius: 20px;
+    background-image: url("../img/serpiente02.jpg");
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
+.familiaContent-Viperidae:hover {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+.familiaContent-Viperidae h3 {
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 18rem;
+    transition: margin-top 1s; 
+}
+
+.familiaContent-Viperidae:hover h3 {
+    margin-top: 10rem; 
+}

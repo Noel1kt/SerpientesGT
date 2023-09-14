@@ -3,6 +3,7 @@ import { Familias } from "../components/Familias";
 import ActionAreaCard from "../components/Cards";
 import { useParams } from "react-router-dom";
 import "../assets/css/cardsContainer.css"
+import "../assets/css/familiaContent.css"
 
 
 export const FamiliasPage = () => {
@@ -15,7 +16,10 @@ export const FamiliasPage = () => {
     return (
         <>
             <h1>Familas</h1>
-            <Familias/>
+            <div className="familiasContainer">
+               <Familias/> 
+            </div>
+            
             <div className="cardsContainer">
                 <ActionAreaCard url={`/Serpientes?familia=${id}`}/> 
             </div>
