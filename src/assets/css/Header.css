@@ -19,17 +19,41 @@
     
 }
 
-.container-items li{
-    text-decoration: none;
-}
-.container-items a{
+/* Estilo base para los enlaces */
+.LinkLi {
     text-decoration: none;
     margin: 1rem;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
     color: aliceblue;
+    position: relative;
 }
 
+.LinkLi:hover {
+    color: #D8E9A8;
+}
+
+/* Pseudo-elemento ::before para crear el subrayado */
+.LinkLi::before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -2px; /* Coloca el subrayado justo debajo del texto */
+    left: 50%; /* Coloca el subrayado en el centro */
+    background-color: aliceblue;
+    transition: width 0.3s ease-in-out, left 0.3s ease-in-out;
+    
+}
+
+/* Animación de subrayado al pasar el mouse */
+.LinkLi:hover::before {
+    width: 100%; /* Expande el subrayado al 100% del ancho del enlace */
+    left: 0; /* Coloca el subrayado en la posición inicial */
+    background-color: #D8E9A8;
+    
+    
+}
 
 
 .Image{
