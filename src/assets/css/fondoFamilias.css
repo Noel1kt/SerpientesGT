@@ -1,0 +1,9 @@
+.fondoFamilias{
+    background-image: url("../img/serpiente02.jpg");
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    opacity: 0.3;
+}

@@ -4,10 +4,18 @@ import ActionAreaCard from "../components/Cards";
 import { useParams } from "react-router-dom";
 import "../assets/css/cardsContainer.css"
 import "../assets/css/familiaContent.css"
+import { FondoFamilias } from "../components/FamiliasPageFont";
 
 
 export const FamiliasPage = () => {
     const {id} = useParams()
+
+    const[muestra , setMuestra] = useState(true);
+
+    const dejarDeMostrar = () => {
+        setMuestra(false)
+        console.log(muestra)
+    }
 
 
     // useParams() obtiene el id (nombre de la familia)
@@ -16,12 +24,14 @@ export const FamiliasPage = () => {
    
     return (
         <>
-            <div className="familiasContainer">
+            <div className="familiasContainer" onClick={dejarDeMostrar}>
                <Familias/> 
             </div>
-            
+
             <div className="cardsContainer">
-                <ActionAreaCard url={`/Serpientes?familia=${id}`}/> 
+            {muestra === true ? <FondoFamilias />  : <h1></h1>}
+            {muestra === false ? <ActionAreaCard url={`/Serpientes?familia=${id}`}/> : <h1></h1>}
+                 
             </div>
             
 
