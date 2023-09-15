@@ -20,13 +20,47 @@
     text-decoration: none;
 }
 
-
+/* Styles */
 .CardContent-Colubridae{
     background-color: rgb(102, 136, 89);
 }
 .cardLink-Colubridae{
     text-decoration: none;
 }
+
+/* Styles */
+.CardContent-Elapidae{
+    background-color: rgb(21, 133, 153);
+}
+.cardLink-Elapidae{
+    text-decoration: none;
+}
+
+/* Styles */
+.CardContent-Leptotyphlopidae{
+    background-color: rgb(120, 100, 223);
+}
+.cardLink-Leptotyphlopidae{
+    text-decoration: none;
+}
+
+/* Styles */
+.CardContent-Loxocemidae{
+    background-color: rgb(188, 97, 221);
+}
+.cardLink-Loxocemidae{
+    text-decoration: none;
+}
+
+/* Styles */
+.CardContent-Viperidae{
+    background-color: rgb(228, 75, 75);
+}
+.cardLink-Viperidae{
+    text-decoration: none;
+}
+
+
 
 
 .Card{
