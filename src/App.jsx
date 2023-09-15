@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import Page404 from "./pages/Page404"
 import { Header } from "./components/Header"
 import ActionAreaCard from "./components/Cards"
-import { Card } from "./components/Card"
+import { Card } from "./components/CardInfo"
 import { FamiliasPage } from "./pages/FamiliasPage"
 
 export function App() {

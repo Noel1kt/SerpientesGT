@@ -23,15 +23,14 @@ export default function ActionAreaCard({url}) {
       <Card sx={{ maxWidth: 345 }} className='Card'>
       <CardActionArea className='CardActionArea'>
         <CardMedia
-
           component="img"
           height="140"
           image={img}
-          alt="green iguana"
+          alt="Serpiente"
           style={{ width: '350px', height: '150px' }}
         />
         <CardContent className={`CardContent-${familia}`}>
-          <Typography className='Typography-title'>
+          <Typography className='Typography-title' style={{ fontSize: "22px"}}>
             {nombreComun}
           </Typography>
           <Typography variant="body2" color="text.secondary">
