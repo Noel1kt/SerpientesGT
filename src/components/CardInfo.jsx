@@ -17,10 +17,18 @@ export const Card = ({url}) => {
     },[id])
     return(
       <main>
-        <h2>Aquí está {card.nombreComun}</h2>
-        <h3>
-        {card.descripcion}
-        </h3>
+        <div>
+         {card.img}
+        </div>
+        <div>
+          <h2>NOMBRE COMÚN: {card.nombreComun}</h2>
+          <h2>NOMBRE CIENTÍFICO: {card.nombreCientifico}</h2>
+          <h2>DESCRIPCIÓN: {card.descripcion}</h2>
+          <h2>DISTRIBUCIÓN EN GUATEMALA: {card.distribucionEnGuatemala}</h2>
+          <h2>HISTORIA NATURAL: {card.historiaNatural}</h2>
+          <h2>VENENOSIDAD: {card.venenosidad}</h2>
+        </div>
+        
       </main>
     )
   }
