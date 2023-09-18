@@ -1,0 +1,16 @@
+.cardInfo{
+    display: flex;
+}
+
+.imgCardInfo{
+    margin: 1.5rem;
+}
+
+.infoContainer{
+}
+
+.textcontainer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
