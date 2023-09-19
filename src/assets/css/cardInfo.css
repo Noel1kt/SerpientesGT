@@ -4,13 +4,26 @@
 
 .imgCardInfo{
     margin: 1.5rem;
+    
 }
 
 .infoContainer{
+    font-size: 14px;
+    margin: 0%;
+    margin-right: 5%;
+    text-align: justify;
 }
 
 .textcontainer{
-    display: flex;
-    justify-content: space-evenly;
+    margin: 1rem;
     align-items: baseline;
+    
 }
+.textcontainer p{
+   margin: 0%;
+   font-size: 18px;
+  
+}
+.textcontainer h2{
+    
+ }
