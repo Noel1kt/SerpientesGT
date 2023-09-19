@@ -17,10 +17,10 @@ export const Card = ({url}) => {
         })
     },[id])
     return(
-      <main className="cardInfo">
+      <main className={`cardInfo`}>
         <div>
           <img 
-          className="imgCardInfo"
+          className={`imgCardInfo-${card.familia}`}
           src={card.img} alt="serpiente"
           style={{ width: '600px', height: '450px'}} /> 
         </div>

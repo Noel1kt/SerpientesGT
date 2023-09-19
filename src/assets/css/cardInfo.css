@@ -3,12 +3,47 @@
     background-color: #D8E9A8;
 }
 
-.imgCardInfo{
+/* familias */
+.imgCardInfo-Boidae{
     padding: 1rem;
     margin: 3rem;
-    background-color: #4E9F3D;
+    background-color: rgb(160, 154, 68);;
     border-radius: 5px;
-    
+}
+/* familias */
+.imgCardInfo-Colubridae{
+    padding: 1rem;
+    margin: 3rem;
+    background-color: rgb(102, 136, 89);
+    border-radius: 5px;
+}
+/* familias */
+.imgCardInfo-Elapidae{
+    padding: 1rem;
+    margin: 3rem;
+    background-color: rgb(21, 133, 153);
+    border-radius: 5px;
+}
+/* familias */
+.imgCardInfo-Leptotyphlopidae{
+    padding: 1rem;
+    margin: 3rem;
+    background-color: rgb(120, 100, 223);
+    border-radius: 5px;
+}
+/* familias */
+.imgCardInfo-Loxocemidae{
+    padding: 1rem;
+    margin: 3rem;
+    background-color: rgb(188, 97, 221);
+    border-radius: 5px;
+}
+/* familias */
+.imgCardInfo-Viperidae{
+    padding: 1rem;
+    margin: 3rem;
+    background-color: rgb(228, 75, 75);
+    border-radius: 5px;
 }
 
 .infoContainer{
@@ -17,18 +52,25 @@
     margin-right: 5%;
     margin-top: 2.5rem;
     text-align: justify;
+    font-weight: 500;
+    font-style: italic;
 }
 
 .textcontainer{
     margin: 1rem;
     align-items: baseline;
-    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
 }
 .textcontainer p{
    margin: 0%;
    font-size: 18px;
   
+  
 }
 .textcontainer h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-style: italic;
     
  }

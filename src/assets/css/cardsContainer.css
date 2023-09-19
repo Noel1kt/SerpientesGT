@@ -9,8 +9,8 @@
 .Typography-title{
     color: #191A19;
     font-size: 25px;
-    font-family: 'Times New Roman', Times, serif;
-    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
 }
 
 .CardContent-Boidae{

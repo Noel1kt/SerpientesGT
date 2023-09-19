@@ -30,7 +30,7 @@ export default function ActionAreaCard({url}) {
           style={{ width: '350px', height: '150px' }}
         />
         <CardContent className={`CardContent-${familia}`}>
-          <Typography className='Typography-title' style={{ fontSize: "22px"}}>
+          <Typography className='Typography-title' style={{ fontSize: "20px"}}>
             {nombreComun}
           </Typography>
           <Typography variant="body2" color="text.secondary">
