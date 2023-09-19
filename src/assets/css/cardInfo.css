@@ -1,6 +1,7 @@
 .cardInfo{
     display: flex;
     background-color: #D8E9A8;
+    
 }
 
 /* familias */
@@ -52,25 +53,17 @@
     margin-right: 5%;
     margin-top: 2.5rem;
     text-align: justify;
-    font-weight: 500;
-    font-style: italic;
+    
 }
 
 .textcontainer{
     margin: 1rem;
     align-items: baseline;
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
+    font-weight: 700;
 }
 .textcontainer p{
    margin: 0%;
    font-size: 18px;
-  
-  
+   font-weight: 400;
 }
-.textcontainer h2{
-    font-family: 'Roboto', sans-serif;
-    font-weight: 500;
-    font-style: italic;
-    
- }

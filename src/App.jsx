@@ -6,6 +6,7 @@ import { Header } from "./components/Header"
 import ActionAreaCard from "./components/Cards"
 import { Card } from "./components/CardInfo"
 import { FamiliasPage } from "./pages/FamiliasPage"
+import { Footer } from "./components/Footer"
 
 export function App() {
 
@@ -20,6 +21,7 @@ export function App() {
                 <Route path="/familia/:id" element={<FamiliasPage/>}/>
                 <Route path="*" element={<Page404/>}/>
             </Routes>
+            <Footer/>
         </Router>
     )
 }
