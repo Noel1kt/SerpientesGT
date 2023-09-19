@@ -22,7 +22,7 @@ export const Card = ({url}) => {
           <img 
           className="imgCardInfo"
           src={card.img} alt="serpiente"
-          style={{ width: '600px', height: '450px' }} /> 
+          style={{ width: '600px', height: '450px'}} /> 
         </div>
         <div className="infoContainer">
           <h2 className="textcontainer">NOMBRE COMÚN:<p>{card.nombreComun}</p></h2>
