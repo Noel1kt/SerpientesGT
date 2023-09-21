@@ -18,6 +18,11 @@
 .listaContainer{
     list-style: none;
     font-size: 18px;
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    padding: 1rem;
+    line-height: 2;
 }
 
 .item{
