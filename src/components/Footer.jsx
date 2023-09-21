@@ -6,11 +6,11 @@ export const Footer = () => {
         <div className="logoFooter">
             <img src="../img/snakes.png" alt="" />
         </div>
-        <ul>
-            <li>Guía orginal</li>
-            <li>Guía orginal</li>
-            <li>Guía orginal</li>
-            <li>Guía orginal</li>
+        <ul className="listaContainer">
+            <li className="item">Guía orginal</li>
+            <li className="item">Para saber más</li>
+            <li className="item">CONAP</li>
+            <li className="item">Contacto</li>
         </ul>
         <form action="">
             <input type="text" />

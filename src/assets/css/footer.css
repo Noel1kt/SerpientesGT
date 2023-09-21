@@ -14,3 +14,12 @@
     height: 280px;
     margin: 10px;
 }
+
+.listaContainer{
+    list-style: none;
+    font-size: 18px;
+}
+
+.item{
+    
+}
