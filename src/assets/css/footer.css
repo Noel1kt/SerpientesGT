@@ -25,6 +25,14 @@
     line-height: 2;
 }
 
-.item{
-    
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 20%;
+}
+
+.inputForm{
+    margin-top: 5%;
+    padding: 5px;
 }

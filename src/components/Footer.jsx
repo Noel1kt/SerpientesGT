@@ -12,10 +12,14 @@ export const Footer = () => {
             <li className="item">CONAP</li>
             <li className="item">Contacto</li>
         </ul>
-        <form action="">
-            <input type="text" />
-            <input type="text" />
-        </form>
+        <div >
+            <form action="" className="formContainer">
+                <span className="textForm">Escribenos</span>
+                <input type="text" className="inputForm"/>
+                <input type="text" className="inputForm"/>
+            </form>
+        </div>
+        
         
     </div>
     )
