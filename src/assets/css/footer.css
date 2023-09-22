@@ -10,9 +10,10 @@
     background-image: url("../img/snakes.png");
     background-size: cover;
     background-position: center;
-    width: 280px;
-    height: 280px;
+    width: 150px;
+    height: 150px;
     margin: 10px;
+    margin-top: 2.5rem;
 }
 
 .listaContainer{
@@ -38,7 +39,7 @@
     color: aliceblue;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
-    margin-top: 10%;
+    
 }
 
 .inputForm{

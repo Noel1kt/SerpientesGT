@@ -15,8 +15,8 @@ export const Footer = () => {
         <div >
             <form action="" className="formContainer">
                 <span className="textForm">Escribenos</span>
-                <input type="text" className="inputForm"/>
-                <input type="text" className="inputForm"/>
+                <input type="text" placeholder="Email" className="inputForm"/>
+                <textarea placeholder="Mensaje" name="" id="" cols="30" rows="10"></textarea>
             </form>
         </div>
         
