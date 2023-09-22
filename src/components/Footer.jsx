@@ -4,7 +4,6 @@ export const Footer = () => {
     return(
     <div className="footer">
         <div className="logoFooter">
-            <img src="../img/snakes.png" alt="" />
         </div>
         <ul className="listaContainer">
             <li className="item">Guía orginal</li>
