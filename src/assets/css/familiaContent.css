@@ -22,6 +22,9 @@
     background-image: url("../img/Boidae.jpg");
     opacity: 0.8;
     transition: 0.5s;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-style: italic;
 }
 
 .familiaContent-Boidae:hover {
@@ -54,6 +57,9 @@
     background-image: url("../img/Colubridae.jpg");
     opacity: 0.8;
     transition: 0.5s;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-style: italic;
 }
 
 .familiaContent-Colubridae:hover {
@@ -86,6 +92,9 @@
     background-image: url("../img/Elapidae.jpg");
     opacity: 0.8;
     transition: 0.5s;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-style: italic;
 }
 
 .familiaContent-Elapidae:hover {
@@ -118,6 +127,9 @@
     background-image: url("../img/Leptotyphlopidae.jpg");
     opacity: 0.8;
     transition: 0.5s;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-style: italic;
 }
 
 .familiaContent-Leptotyphlopidae:hover {
@@ -150,6 +162,9 @@
     background-image: url("../img/Loxocemidae.jpeg");
     opacity: 0.8;
     transition: 0.5s;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-style: italic;
 }
 
 .familiaContent-Loxocemidae:hover {
@@ -181,6 +196,9 @@
     background-image: url("../img/Viperidae.jpg");
     opacity: 0.8;
     transition: 0.5s;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-style: italic;
 }
 
 .familiaContent-Viperidae:hover {
