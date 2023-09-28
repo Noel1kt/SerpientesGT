@@ -1,4 +1,4 @@
-.cueg-section{
+.about-section{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     padding: 10%;
@@ -8,17 +8,10 @@
     
 }
 
-.cueg-ul li{
-    display: flex;
-    align-items: center;
+.about-ul li{
+    list-style: none;
 }
 
-.cueg-ul p{
+.about-ul p{
     padding-left: 1rem;
-}
-
-.cueg-veneno{
-    margin-left: 2rem;
-    list-style-type: disc;
-    color: #333;
 }
