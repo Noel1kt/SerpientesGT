@@ -37,6 +37,13 @@ export const About = () => {
                         salud ecosistémica. jodamv@yahoo.com</p></li>
                         
             </ul>
+            <span className="libro-container">
+                
+                <a href="https://www.researchgate.net/profile/Dennis-Guerra-Centeno/publication/323410067_Serpientes_de_Guatemala_Guia_para_identificacion_de_especies/links/5a94c3490f7e9ba42970d698/Serpientes-de-Guatemala-Guia-para-identificacion-de-especies.pdf">
+                <div className="libro-img"></div>
+                    Descargar Libro
+                </a>
+            </span>
         </section>
     </>)
 }
