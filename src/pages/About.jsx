@@ -1,4 +1,4 @@
-import "../assets/css/About.css"
+import "../assets/css/about.css"
 
 export const About = () => {
     return( <>
