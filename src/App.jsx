@@ -21,7 +21,7 @@ export function App() {
                 <Route path="/Serpientes/:id" element={<Card/>}/>
                 <Route path="/familia/:id" element={<FamiliasPage/>}/>
                 <Route path="/About" element={<About/>}/>
-                <Route path="*" element={<Page404/>}/>
+                <Route path="/*" element={<Page404/>}/>
             </Routes>
             <Footer/>
         </Router>
