@@ -33,7 +33,7 @@ export default function ActionAreaCard({url}) {
           <Typography className='Typography-title' style={{ fontSize: "20px"}}>
             {nombreComun}
           </Typography>
-          <Typography variant="body2" color="text.secondary">
+          <Typography variant="body1" color="text.secondary">
             {nombreCientifico}
           </Typography>
         </CardContent>
