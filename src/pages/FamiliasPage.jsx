@@ -5,6 +5,7 @@ import { useParams } from "react-router-dom";
 import "../assets/css/cardsContainer.css"
 import "../assets/css/familiaContent.css"
 import { FondoFamilias } from "../components/FamiliasPageFont";
+import { Home } from "./Home";
 
 
 export const FamiliasPage = () => {
@@ -29,7 +30,7 @@ export const FamiliasPage = () => {
             </div>
 
             <div className="cardsContainer">
-            {muestra === true ? <FondoFamilias />  : <h1></h1>}
+            {muestra === true ? <Home />  : <h1></h1>}
             {muestra === false ? <ActionAreaCard url={`/Serpientes?familia=${id}`}/> : <h1></h1>}
                  
             </div>

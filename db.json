@@ -30,7 +30,7 @@
       {
         "id": 1,
         "familia": "Boidae",
-        "nombreComun": "Mazacuata, boa",
+        "nombreComun": "Mazacuata, Boa",
         "nombreCientifico": "Boa-constrictor",
         "descripcion": "Es una de las especies más conocidas en Guatemala. Generalmente no sobrepasa los tres metros de longitud aunque se han reportado individuos de 5.50 m. La cabeza es más o menos triangular y las pupilas son verticales. En el rostro se observa una mancha que semeja un antifaz. El color de fondo puede variar en tonalidades de gris y marrón, además presenta un patrón reticulado más oscuro. A los lados de la cloaca, presentan espolones en forma de uña que son más desarrollados en los machos.",
         "distribucionEnGuatemala": "Está presente en todo el país, en elevaciones que van de cero a 900 msnm (Campbell y Vannini 1989).",
@@ -74,7 +74,7 @@
       {
         "id": 5,
         "familia": "Colubridae",
-        "nombreComun": "Zopilota, mataculebra",
+        "nombreComun": "Zopilota, Mataculebra",
         "nombreCientifico": "Clelia clelia",
         "descripcion": "Llega a medir hasta 2 m de longitud. Los adultos son color negro brillante uniforme en el dorso y el vientre es color crema. Los jóvenes son de color rojo brillante, la cabeza es negra con una diadema central amarilla.",
         "distribucionEnGuatemala": "Se distribuye en el sureste de Petén e Izabal desde los 0 hasta los 1000 msnm.",
@@ -85,7 +85,7 @@
       {
         "id": 6,
         "familia": "Colubridae",
-        "nombreComun": "Sabanera, basurera, ranera",
+        "nombreComun": "Sabanera, Basurera, Banera",
         "nombreCientifico": "Coniophanes fissidens",
         "descripcion": "El tamaño medio es de 60 cm. Es de color marrón, con dos franjas más claras a los lados del dorso que nacen de una mancha aislada en la base del cuello. La mandíbula es blanca con pecas oscuras de forma y tamaño irregular. La pupila es redonda.",
         "distribucionEnGuatemala": "Costa sur y sur de Petén en elevaciones de 0 a 1830 msnm (Campbell y Vannini 1989).",
