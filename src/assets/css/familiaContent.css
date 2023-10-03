@@ -15,10 +15,10 @@
     flex-wrap: wrap;
     justify-content: center;
     margin: 1rem;
-    width: 270px;
-    height: 150px;
+    width: 250px;
+    height: 100px;
     border-radius: 20px;
-     background-size: cover;
+    background-size: cover;
     background-image: url("../img/Boidae.jpg");
     opacity: 0.8;
     transition: 0.5s;
@@ -36,12 +36,12 @@
     color: aliceblue;
     font-size: 40px;
     font-weight: bold;
-    margin-top: 6rem;
+    margin-top: 3rem;
     transition: margin-top 0.3s; 
 }
 
 .familiaContent-Boidae:hover h3 {
-    margin-top: 3rem; 
+    margin-top: 2rem; 
 }
 
 
@@ -50,8 +50,8 @@
     flex-wrap: wrap;
     justify-content: center;
     margin: 1rem;
-    width: 270px;
-    height: 150px;
+    width: 250px;
+    height: 100px;
     border-radius: 20px;
      background-size: cover;
     background-image: url("../img/Colubridae.jpg");
@@ -71,12 +71,12 @@
     color: aliceblue;
     font-size: 40px;
     font-weight: bold;
-    margin-top: 6rem;
+    margin-top: 3rem;
     transition: margin-top 0.3s; 
 }
 
 .familiaContent-Colubridae:hover h3 {
-    margin-top: 3rem; 
+    margin-top: 2rem; 
 }
 
 /* style */
@@ -85,8 +85,8 @@
     flex-wrap: wrap;
     justify-content: center;
     margin: 1rem;
-    width: 270px;
-    height: 150px;
+    width: 250px;
+    height: 100px;
     border-radius: 20px;
      background-size: cover;
     background-image: url("../img/Elapidae.jpg");
@@ -106,12 +106,12 @@
     color: aliceblue;
     font-size: 40px;
     font-weight: bold;
-    margin-top: 6rem;
+    margin-top: 3rem;
     transition: margin-top 0.3s; 
 }
 
 .familiaContent-Elapidae:hover h3 {
-    margin-top: 3rem; 
+    margin-top: 2rem; 
 }
 
 /* style */
@@ -120,8 +120,8 @@
     flex-wrap: wrap;
     justify-content: center;
     margin: 1rem;
-    width: 270px;
-    height: 150px;
+    width: 250px;
+    height: 100px;
     border-radius: 20px;
      background-size: cover;
     background-image: url("../img/Leptotyphlopidae.jpg");
@@ -141,12 +141,12 @@
     color: aliceblue;
     font-size: 30px;
     font-weight: bold;
-    margin-top: 6rem;
+    margin-top: 3rem;
     transition: margin-top 0.3s; 
 }
 
 .familiaContent-Leptotyphlopidae:hover h3 {
-    margin-top: 3rem; 
+    margin-top: 2rem; 
 }
 
 /* style */
@@ -155,8 +155,8 @@
     flex-wrap: wrap;
     justify-content: center;
     margin: 1rem;
-    width: 270px;
-    height: 150px;
+    width: 250px;
+    height: 100px;
     border-radius: 20px;
      background-size: cover;
     background-image: url("../img/Loxocemidae.jpeg");
@@ -176,12 +176,12 @@
     color: aliceblue;
     font-size: 40px;
     font-weight: bold;
-    margin-top: 6rem;
+    margin-top: 3rem;
     transition: margin-top 0.3s; 
 }
 
 .familiaContent-Loxocemidae:hover h3 {
-    margin-top: 3rem; 
+    margin-top: 2rem; 
 }
 /* style */
 .familiaContent-Viperidae {
@@ -189,8 +189,8 @@
     flex-wrap: wrap;
     justify-content: center;
     margin: 1rem;
-    width: 270px;
-    height: 150px;
+    width: 250px;
+    height: 100px;
     border-radius: 20px;
      background-size: cover;
     background-image: url("../img/Viperidae.jpg");
@@ -210,10 +210,10 @@
     color: aliceblue;
     font-size: 40px;
     font-weight: bold;
-    margin-top: 6rem;
+    margin-top: 3rem;
     transition: margin-top 0.3s; 
 }
 
 .familiaContent-Viperidae:hover h3 {
-    margin-top: 3rem; 
+    margin-top: 2rem; 
 }
