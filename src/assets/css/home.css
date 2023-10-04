@@ -9,7 +9,7 @@
     position: relative;
     width: 100%; /* Ancho del contenedor al 100% del padre */
     height: 0;
-    padding-bottom: 45%; /* 50% de la altura de la pantalla */
+    padding-bottom: 50%; /* 50% de la altura de la pantalla */
     display: flex;
     align-items: center; /* Centrar verticalmente */
     justify-content: center; /* Centrar horizontalmente */
@@ -25,5 +25,5 @@
   }
 
 .text-conap{
-  
+  margin: 3rem;
 }
