@@ -7,7 +7,6 @@ export const Home = () => {
   return (
     <div className='video-container'>
       <iframe
-        width="100%" // Ancho del reproductor
         src={videoUrl}
         title="YouTube Video"
         frameBorder="0" // Sin bordes alrededor del reproductor
