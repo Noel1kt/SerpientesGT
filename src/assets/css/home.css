@@ -1,3 +1,10 @@
+.home-container{
+  background-color: #D8E9A8;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  padding: 1rem;
+}
+
 .video-container {
     position: relative;
     width: 100%; /* Ancho del contenedor al 100% del padre */
@@ -16,3 +23,7 @@
     height: 100%;
     
   }
+
+.text-conap{
+  
+}
