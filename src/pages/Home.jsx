@@ -1,21 +1,20 @@
-import React, { useRef, useEffect } from 'react';
+import React from 'react';
 import "../assets/css/home.css"; // Importa tus estilos CSS
 
 export const Home = () => {
-  const videoRef = useRef(null);
+    const videoUrl = "https://www.youtube.com/embed/Gk1B4hbfwgM";
 
   return (
-    <div className="video-container">
+    <div className='video-container'>
       <iframe
-        title="YouTube video player"
-        width="100%"
-        height="100%"
-        src="https://www.youtube.com/embed/Gk1B4hbfwgM?autoplay=1&mute=1"
-        frameBorder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowFullScreen
-        ref={videoRef} // Ref para acceder al elemento iframe
+        width="100%" // Ancho del reproductor
+        src={videoUrl}
+        title="YouTube Video"
+        frameBorder="0" // Sin bordes alrededor del reproductor
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" // Opciones permitidas
+        allowFullScreen // Permitir la visualización en pantalla completa
       ></iframe>
     </div>
   );
+
 }
